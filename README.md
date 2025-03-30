@@ -176,4 +176,3 @@ Retrieves the nth level manager for a given employee.
 - `email`: Required, valid email format
 - `profileImage`: Required, non-blank URL
 - `reportsTo`: Optional, must reference valid employee ID if provided
-```
